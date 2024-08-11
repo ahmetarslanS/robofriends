@@ -7,6 +7,7 @@ Simple React project for learning purposes. It showcases a list of robot friends
 
 ---
 * React
+* React Hooks
 * RoboHash API
 * Tachyons
 ---
