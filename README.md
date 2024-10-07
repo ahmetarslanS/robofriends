@@ -10,6 +10,8 @@ Simple React project for learning purposes. It showcases a list of robot friends
 * React Hooks
 * RoboHash API
 * Tachyons
+* Create React App
+* Vite
 ---
 ## How To Run
 1. Clone this repo
